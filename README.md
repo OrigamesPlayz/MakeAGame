@@ -23,3 +23,5 @@ Note: The blocks below are your inventory for building, click them to use the ob
 This game was created for week 12 of Hackclub Siege and is attempted to follow the theme of framework using the idea of building your own path towards the goal.
 
 Have fun reviewers and others! :)
+
+<img width="347" height="194" alt="image" src="https://github.com/user-attachments/assets/db27c2d6-a5e3-431e-ba98-22083f47f753" />
